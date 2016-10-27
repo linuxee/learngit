@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 wang1
 xiang
+=======
+wang
+>>>>>>> 0b800778a025de04bb549262fefce3fd85a39525
